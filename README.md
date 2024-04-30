@@ -20,6 +20,6 @@ Se você também está estudando Java, ou se é um programador experiente em Jav
 
 ## Contato
 
-Se você tiver alguma dúvida, sugestão ou apenas quiser compartilhar suas experiências de aprendizado em Java, sinta-se à vontade para entrar em contato comigo através do meu e-mail (seuemail@example.com) ou das redes sociais (links para suas redes sociais). Estou animado para trocar ideias e aprender junto com você!
+Se você tiver alguma dúvida, sugestão ou apenas quiser compartilhar suas experiências de aprendizado em Java, sinta-se à vontade para entrar em contato comigo através do meu e-mail (gabsdev02@gmail.com) ou das redes sociais (links para suas redes sociais). Estou animado para trocar ideias e aprender junto com você!
 
 Espero que este repositório seja útil para você em sua jornada de aprendizado em Java. Vamos aprender e crescer juntos! 🚀
